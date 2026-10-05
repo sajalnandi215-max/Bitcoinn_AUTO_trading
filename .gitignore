@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large trained model binary files (GitHub file size limit is 100MB; btc_model.pkl is >2GB)
+*.pkl
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Operating system & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
